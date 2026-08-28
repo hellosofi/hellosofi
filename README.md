@@ -4,7 +4,7 @@
 # 🌸sobre mim...
 Apresentações são difíceis, né?
 ### > academicamente falando...
-Estou no primeiro *(e caminhando para o segundo)* período de ciência da computação na CESAR School!
+Estou no segundo período de ciência da computação na CESAR School!
 Amo passar o tempo *"inventando moda"*, criando, errando e recomeçando. Nunca parada. :)
 
 No momento, estou envolvida em alguns projetos da faculdade e utilizando bastante C++ em Arduino. Está sendo uma ótima experiência ter contato com ferramentas diferentes.  
